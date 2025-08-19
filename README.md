@@ -70,10 +70,8 @@ pip install -r requirements.txt
 ### 3️⃣ Configure environment variables  
 Create a `.env` file with the following keys:  
 ```
-OPENAI_API_KEY=your_api_key
+GEMINI_API_KEY=your_api_key
 DB_URL=your_database_url
-CALENDAR_API_KEY=your_calendar_api
-EMAIL_API_KEY=your_email_api
 ```
 
 ### 4️⃣ Run the Recruitment Agent  
