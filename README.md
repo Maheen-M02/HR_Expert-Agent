@@ -123,10 +123,10 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## 🌐 Connect  
 
-👤 **Maintainer**: [Your Name / Team]  
-📧 Email: your@email.com  
-💼 LinkedIn: [Your LinkedIn]  
-🚀 Demo: [Live Demo Link if available]  
+👤 **Maintainer**: Maheen Meshram  
+📧 Email: maheenmeshrram.2115@gmail.com 
+💼 LinkedIn: nkedin.com/in/maheen-meshram-965066284/  
+  
 
 ---
 
